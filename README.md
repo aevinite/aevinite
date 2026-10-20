@@ -4,14 +4,14 @@
 
 We build custom business software, SaaS products, websites and apps, 3D web experiences and AI automation.
 
-🌐 [aevinite.com](https://www.aevinite.com) · 👥 [About & founders](https://www.aevinite.com/about) · 💼 [LinkedIn](https://www.linkedin.com/company/aevinite/) · 📸 [Instagram](https://www.instagram.com/aevinite/) · ✉️ rishi@aevinite.com
+🌐 [aevinite.com](https://www.aevinite.com) · 👥 [About & founders](https://www.aevinite.com/about) · 💼 [LinkedIn](https://www.linkedin.com/company/aevinite/) · 📊 [Crunchbase](https://www.crunchbase.com/organization/aevinite) · 📸 [Instagram](https://www.instagram.com/aevinite/) · ✉️ rishi@aevinite.com
 
 ## Founders
 
 | | Role | Links |
 |---|---|---|
-| **Rishi Nakrani** | Founder | [LinkedIn](https://www.linkedin.com/in/rishinakrani/) · [Instagram](https://www.instagram.com/rishi._.nakrani/) |
-| **Jenish Patel** | Co-Founder | [LinkedIn](https://www.linkedin.com/in/jenish-patel-a5608a398/) · [Instagram](https://www.instagram.com/jenish.16/) |
+| **Rishi Nakrani** | Founder | [LinkedIn](https://www.linkedin.com/in/rishinakrani/) · [Crunchbase](https://www.crunchbase.com/person/rishi-nakrani) · [Instagram](https://www.instagram.com/rishi._.nakrani/) |
+| **Jenish Patel** | Co-Founder | [LinkedIn](https://www.linkedin.com/in/jenish-patel-a5608a398/) · [Crunchbase](https://www.crunchbase.com/person/jenish-patel-6ea2) · [Instagram](https://www.instagram.com/jenish.16/) |
 
 ## What we build
 
